@@ -1,6 +1,7 @@
 package org.example.domain;
 
 import java.time.LocalDateTime;
+import java.util.Dictionary;
 
 public class Order {
 
@@ -10,5 +11,5 @@ public class Order {
 
     private LocalDateTime orderDate;
 
-    private String productQuantities;
+    private Dictionary<String, Integer> productQuantities;
 }

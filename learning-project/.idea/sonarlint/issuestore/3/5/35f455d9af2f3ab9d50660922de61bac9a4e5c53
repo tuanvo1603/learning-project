@@ -1,0 +1,15 @@
+
+Œ
+java:S2147"DCombine this catch with the one at line 24, which has the same body.(é–³öûÿÿÿÿ8ÊÂŒ£ø1J$059c7022-4366-464f-8c26-9112273d92cf
+‚
+java:S6213":Rename this variable to not match a restricted identifier.(”Ğ¯Íûÿÿÿÿ8ÏÂŒ£ø1J$6f540d21-d07a-4c87-945e-f51bdead7560
+j
+java:S1481"'Remove this unused "id" local variable.(§Ã˜·8ÑÂŒ£ø1J$f68aa851-ced5-4f93-8431-1a7602bdfa0f
+l
+java:S1481")Remove this unused "name" local variable.(ÜõŸş8ÑÂŒ£ø1J$1bff0a6e-fada-4dad-9be1-ac3c9b495abd
+m
+java:S1481"*Remove this unused "price" local variable.(íÜ­8ÒÂŒ£ø1J$f36376bf-a624-4da0-b4c0-bdaf5e093dce
+v
+java:S1481"3Remove this unused "stockAvailable" local variable.(Â‰¢ë8ÒÂŒ£ø1J$1444e33e-3fac-42e7-8f75-aab5771d442d
+k	java:S108")Either remove or fill this block of code.(ï­£Ä8ÓÂŒ£ø1J$2b1398f7-c99a-4967-9df7-1d2b182ce7e3
+p	java:S108")Either remove or fill this block of code.(é–³öûÿÿÿÿ8ÓÂŒ£ø1J$8a670011-8b90-471c-b930-43bd97a3c72a

@@ -1,0 +1,11 @@
+
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ËÖ×¥ø1J$e91e1881-4ff7-417e-9f2e-20f4f07b6919
+n
+java:S1068",Remove this unused "products" private field.(ŞÖŠ@8»Åá¢ø1J$6de1ecd5-6bdc-482d-93f5-77fc12a73abb
+p
+java:S1068"-Remove this unused "customers" private field.(Í¡ÓÏ8¼Åá¢ø1J$ae728472-8cb9-46f7-a9a0-77178c9b0228
+r
+java:S1068"*Remove this unused "orders" private field.(äùáÉùÿÿÿÿ8¼Åá¢ø1J$4905a7f2-f87d-43bd-897b-5651a41ce32d
+V
+java:S1068"4Remove this unused "processingFolder" private field.(òÁŞêûÿÿÿÿ8 Áå¦ø1
