@@ -1,8 +1,6 @@
 package org.example.service.loadfile;
 
-import java.util.Set;
-
-public interface LoadData {
+public interface DataLoader {
 
     void loadData(String inputPath, String outputPath);
 }
