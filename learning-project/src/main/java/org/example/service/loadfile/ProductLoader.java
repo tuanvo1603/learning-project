@@ -36,7 +36,7 @@ public class ProductLoader extends AbstractDataLoaderLoader<Product> {
         } catch (IOException e) {
             Logger.log("An error occurred while accessing output file: " + outputPath);
         } catch (Exception e) {
-            Logger.log("An error occurred while writing data to output file: " + outputPath);
+            Logger.log("An unknown error occurred while writing data to output file: " + outputPath);
         }
     }
 

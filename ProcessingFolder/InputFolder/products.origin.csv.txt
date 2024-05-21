@@ -1,0 +1,6 @@
+id,name,price,stockAvailable
+1,Widget A,19.99,150
+2,Gadget B,29.49,85
+3,Thingamajig C,14.75,200
+4,Doohickey D,45.00,60
+5,Contraption E,39.99,100
